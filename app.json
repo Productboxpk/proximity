@@ -1,4 +1,6 @@
 {
+  "name": "Proximity List",
+  "displayName": "proximity-list",
   "expo": {
     "name": "Proximity List",
     "slug": "proximity-list",
@@ -11,9 +13,9 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
